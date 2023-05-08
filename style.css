@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: linear-gradient(to bottom, #B9121B, #4C1B1B);
+    background-attachment: fixed;
+}
+
+main{
+    background-color: white;
+    width: 600px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: auto;
+}
+
+img{
+    border-radius: 10px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: #BD8D46;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: #9a7a49;
+}
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: #7d6746;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: left;
+    color: #4C1B1B;
+}
